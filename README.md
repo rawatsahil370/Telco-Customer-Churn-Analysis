@@ -26,22 +26,22 @@ The objective is to understand customer behavior, identify churn patterns, and h
 _Customer churn directly impacts revenue and long-term growth in the telecom industry.
 This project addresses the following business challenges:_
 
-- Identify key factors contributing to customer churn
-- Compare churn behavior across demographics and service types
-- Analyze the impact of contract type, payment method, and tenure on churn
-- Detect high-risk customer segments
-- Support retention strategies with data-backed insights
+- _dentify key factors contributing to customer churn_
+- _Compare churn behavior across demographics and service types_
+- _Analyze the impact of contract type, payment method, and tenure on churn_
+- _Detect high-risk customer segments_
+- _Support retention strategies with data-backed insights_
 
 ---
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
 _The dataset contains telecom customer-level information including:_
 
-- Customer demographics (gender, senior citizen, partner, dependents)
-- Account information (tenure, contract type, payment method)
-- Service usage (internet service, phone service, add-ons)
-- Billing details (monthly charges, total charges)
-- Churn status (Yes/No)
+- _Customer demographics (gender, senior citizen, partner, dependents)_
+- _Account information (tenure, contract type, payment method)_
+- _Service usage (internet service, phone service, add-ons)_
+- _Billing details (monthly charges, total charges_)
+- _Churn status (Yes/No)_
 
 ---
 
@@ -76,30 +76,30 @@ Telecom Churn Analysis/
 
 _Key tasks performed in Python:_
 
-- Data cleaning and preprocessing
-- Handling missing and inconsistent values
-- Univariate and bivariate analysis
-- Churn distribution analysis
-- Tenure, contract, and payment method impact analysis
-- Visualizations using bar charts, count plots, and histograms
+- _Data cleaning and preprocessing_
+- _Handling missing and inconsistent values_
+- _Univariate and bivariate analysis_
+- _Churn distribution analysis_
+- _Tenure, contract, and payment method impact analysis_
+- _Visualizations using bar charts, count plots, and histograms_
 
 <h2><a class="anchor" id="sql"></a>SQL Analysis (PostgreSQL)</h2>
 
 _The SQL file includes business-focused queries such as:_
 
-- Overall churn rate calculation
-- Churn rate by contract type
-- Churn analysis by payment method
-- Average charges comparison (churned vs retained customers)
-- Tenure-based churn segmentation
+- _Overall churn rate calculation_
+- _Churn rate by contract type_
+- _Churn analysis by payment method_
+- _Average charges comparison (churned vs retained customers)_
+- _Tenure-based churn segmentation_
 ---
 
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-If you found this project useful or want to discuss data analytics opportunities:
+_If you found this project useful or want to discuss data analytics opportunities:
 **Sahil**  
  **Aspiring Data Analyst**  
 🔗 [LinkedIn](www.linkedin.com/in/sahil-27158a2aaVanity URL name)  
-📧 Email: sahilrawat3868@gmail.com  
+📧 Email: sahilrawat3868@gmail.com_  
 
