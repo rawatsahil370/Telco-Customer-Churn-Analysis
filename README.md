@@ -105,6 +105,8 @@ _Power BI Dashboard shows:_
 - _Monthly charges vs churn comparison_
 - _Service-wise churn distribution_
 - _Interactive slicers for deep-dive analysis_
+
+  ![Dashboard Preview](/Dashboard.png)
 ---
 <h2><a class="anchor" id="Key Insights"></a>💡 Key Insights</h2>
 
@@ -122,4 +124,8 @@ _If you found this project useful or want to discuss data analytics opportunitie
  **Aspiring Data Analyst**  
 🔗 [LinkedIn](www.linkedin.com/in/sahil-27158a2aaVanity URL name)  
 📧 Email: sahilrawat3868@gmail.com_  
+
+
+
+_⭐ If you found this project useful, feel free to connect with me on LinkedIn or explore the repository._
 
